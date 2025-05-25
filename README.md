@@ -6,6 +6,8 @@ Hi, I'm Keerthi. I'm currently learning Full-stack development Course and GitHub
 
 ## 🔧 Tools I’m Learning
 - Python
+- Java
+- Data Structures and Algorithms
 - Git & GitHub
 - MySql
 - Web Development basics
